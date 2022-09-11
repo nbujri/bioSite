@@ -8,3 +8,5 @@ Biography project for WEB 200 class.
     <li>Professor Richard Krasso</li>
     <li>Ngi Bujri</li>
 </ul>
+<h2>GitHub Pages Link</h2>
+<a>https://nbujri.github.io/bioSite/</a>
