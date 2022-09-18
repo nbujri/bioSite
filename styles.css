@@ -77,6 +77,17 @@ h2 {
     -webkit-text-stroke: 2px #272727;
 }
 
+/* footer styles start */
+.footer {
+    display: flex;
+    height: 100px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    background-color: #bebfc1;
+    color: #1a1e45;
+}
+
 /* landing page styles */
 
 .left {
