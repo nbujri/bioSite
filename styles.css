@@ -168,3 +168,21 @@ h2 {
     width: 200px;
     height: 200px;
 }
+
+.hobby-right > .text {
+    padding-right: 100px;
+    text-align: center;
+}
+
+.hobby-left > .text {
+    padding-left: 100px;
+    text-align: center;
+}
+
+.bayern-link:visited {
+    color: #e8c044;
+}
+
+.steam-link:visited {
+    color: #1a1e45;
+}
