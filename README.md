@@ -9,4 +9,4 @@ Biography project for WEB 200 class.
     <li>Ngi Bujri</li>
 </ul>
 <h2>GitHub Pages Link</h2>
-<a>https://nbujri.github.io/bioSite/</a>
+<a href="https://nbujri.github.io/bioSite/">https://nbujri.github.io/bioSite/</a>
