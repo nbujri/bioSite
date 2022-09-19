@@ -183,6 +183,7 @@ h2 {
     color: #e8c044;
 }
 
-.steam-link:visited {
+.steam-link:visited,
+.uncg-link:visited {
     color: #1a1e45;
 }
