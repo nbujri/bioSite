@@ -1,24 +1,24 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
-    font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 .logo,
 .nav-link {
-    font-family: 'Bebas Neue', cursive;
+  font-family: "Bebas Neue", cursive;
 }
 
 li {
-    list-style: none;
+  list-style: none;
 }
 
 .nav-bar {
-    height: 14vh;
+  height: 14vh;
 }
 
 .nav-bar,
@@ -27,163 +27,174 @@ li {
 .logo-container,
 .left,
 .right {
-    display: flex;
+  display: flex;
 }
 
 .logo-container {
-    width: 42vw;
-    justify-content: center;
-    align-items: center;
-    background-color: #e8c044;
-    border: solid 1px #272727;
+  width: 42vw;
+  justify-content: center;
+  align-items: center;
+  background-color: #e8c044;
+  border: solid 1px #272727;
 }
 
 .nav-container {
-    width: 58vw;
-    background-color: #bebfc1;
-    border: solid 1px #272727;
+  width: 58vw;
+  background-color: #bebfc1;
+  border: solid 1px #272727;
 }
 
 .nav-list {
-    height: 14vh;
-    justify-content: space-evenly;
-    align-items: center;
-
+  height: 14vh;
+  justify-content: space-evenly;
+  align-items: center;
 }
 
 .logo,
 h1 {
-    color: #1a1e45;
-    font-size: 64px;
+  color: #1a1e45;
+  font-size: 64px;
 }
 
 h2 {
-    font-size: 40px;
+  font-size: 40px;
 }
 
 .nav-link {
-    color: #1a1e45;
-    font-size: 48px;
-    text-decoration: none;
+  color: #1a1e45;
+  font-size: 48px;
+  text-decoration: none;
 }
 
 .nav-link:visited {
-    color: #1a1e45;
+  color: #1a1e45;
 }
 
 .nav-link:hover {
-    text-decoration: underline;
-    color: #e8c044;
-    -webkit-text-stroke: 2px #272727;
+  text-decoration: underline;
+  color: #e8c044;
+  -webkit-text-stroke: 2px #272727;
 }
 
 /* footer styles start */
 .footer {
-    display: flex;
-    height: 100px;
-    width: 100%;
-    justify-content: center;
-    align-items: center;
-    background-color: #bebfc1;
-    color: #1a1e45;
+  display: flex;
+  height: 100px;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  background-color: #bebfc1;
+  color: #1a1e45;
+}
+
+.footer a {
+  color: #1a1e45;
 }
 
 /* landing page styles */
 
 .left {
-    width: 42vw;
-    background-color: #e8c044;
-    height: 86vh;
-    justify-content: center;
-    align-items: center;
-    border: solid 1px #272727;
+  width: 42vw;
+  background-color: #e8c044;
+  height: 86vh;
+  justify-content: center;
+  align-items: center;
+  border: solid 1px #272727;
 }
 
 .portrait {
-    min-width: 100%;
-    min-height: 100%;
-    max-width: 100%;
-    max-height: 100%;
+  min-width: 100%;
+  min-height: 100%;
+  max-width: 100%;
+  max-height: 100%;
 }
 
 .right {
-    width: 58vw;
-    height: 86vh;
-    background-color: #272727;
-    justify-content: center;
-    align-items: center;
-    border: solid 1px #272727;
+  width: 58vw;
+  height: 86vh;
+  background-color: #272727;
+  justify-content: center;
+  align-items: center;
+  border: solid 1px #272727;
 }
 
 .name {
-    font-size: 128px;
-    font-weight: bold;
-    color: #e8c044;
-    text-decoration: underline;
+  font-size: 128px;
+  font-weight: bold;
+  color: #e8c044;
+  text-decoration: underline;
 }
 
 /* hobby and about styles */
 .header {
-    display: flex;
-    justify-content: center;
-    padding: 50px 0;
-    background-color: #e8c044;
+  display: flex;
+  justify-content: center;
+  padding: 50px 0;
+  background-color: #e8c044;
 }
 
 .section,
 .hobby-left,
 .hobby-right {
-    display: flex;
+  display: flex;
 }
 
 .section {
-    padding: 50px 0;
+  padding: 50px 0;
 }
 
 .hobby-left,
 .hobby-right {
-    width: 50vw;
-    justify-content: center;
-    align-items: center;
+  width: 50vw;
+  justify-content: center;
+  align-items: center;
 }
 
 .section-one,
 .section-three {
-    background-color: #272727;
+  background-color: #272727;
 }
 
 .section-two {
-    background-color: #bebfc1;
+  background-color: #bebfc1;
 }
 
 .text-gold {
-    color: #e8c044;
+  color: #e8c044;
 }
 
 .text-blue {
-    color: #1a1e45;
+  color: #1a1e45;
 }
 
 .hobby-img {
-    width: 200px;
-    height: 200px;
+  width: 200px;
+  height: 200px;
 }
 
 .hobby-right > .text {
-    padding-right: 100px;
-    text-align: center;
+  padding-right: 100px;
+  text-align: center;
 }
 
 .hobby-left > .text {
-    padding-left: 100px;
-    text-align: center;
+  padding-left: 100px;
+  text-align: center;
 }
 
 .bayern-link:visited {
-    color: #e8c044;
+  color: #e8c044;
 }
 
 .steam-link:visited,
 .uncg-link:visited {
-    color: #1a1e45;
+  color: #1a1e45;
+}
+
+.gold-link {
+  color: #e8c044;
+}
+
+.blue-link {
+  color: #1a1e45;
 }
